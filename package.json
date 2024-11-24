@@ -1,0 +1,16 @@
+{
+  "name": "tabnews.com.br",
+  "version": "1.0.0",
+  "description": "Projeto TabNews: Aprendizado e colaboração em desenvolvimento web. Baseado no curso.dev, este repositório é um espaço aberto para implementações e contribuições da comunidade. Vamos aprender e construir juntos!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "JE4NVRG",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
